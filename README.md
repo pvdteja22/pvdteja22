@@ -44,5 +44,5 @@ Here are some of the exciting projects I've worked on:
 
 ## 📫 Connect with Me  
 - **Email**: [tejaperla02@gmail.com](mailto:tejaperla02@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/your-profile](www.linkedin.com/venkata-durga-teja-perla)
+- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/venkata-durga-teja-perla)
 
