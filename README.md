@@ -35,7 +35,7 @@ Here are some of the exciting projects I've worked on:
    - A charity portal for NGOs built with React.js, HTML, and CSS.  
 
 3. **[Tic-Tac-Toe Game](https://github.com/pvdteja22/tic-tac-toe)**  
-   - A Python-based implementation of the classic Tic-Tac-Toe game.  
+   - A Javascript-based implementation of the classic Tic-Tac-Toe game.  
 
 4. **Calculator App**  
    - A JavaScript-powered calculator for basic mathematical operations.  
