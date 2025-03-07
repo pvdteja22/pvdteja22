@@ -37,7 +37,7 @@ Here are some of the exciting projects I've worked on:
 3. **[Tic-Tac-Toe Game](https://github.com/pvdteja22/tic-tac-toe)**  
    - A Javascript-based implementation of the classic Tic-Tac-Toe game.  
 
-4. **Calculator App**  
+4. **[Calculator App](https://github.com/pvdteja22/Calculator)**  
    - A JavaScript-powered calculator for basic mathematical operations.  
 
 ---
